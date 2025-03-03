@@ -25,9 +25,10 @@ I'm a **Site Reliability Engineer (SRE)** passionate about **building scalable s
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+<!--
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawanbahuguna&show_icons=true&theme=dark)
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanbahuguna&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawanbahuguna&theme=dark)
 ![Company Contributions](https://img.shields.io/badge/Contributions-1020-blue?style=for-the-badge)
