@@ -46,6 +46,8 @@ I'm a **Site Reliability Engineer (SRE)** passionate about **building scalable s
 
 
 ## 📌 Featured Projects
+
+- 🎥 **[GitHub Action to Post YouTube Video Links to Telegram](https://github.com/pawanbahuguna/yt2tg)** - Post YouTube Video Links to Telegram [NO YouTube API Required]
 - ⚙️ **[GitHub Action Log](https://github.com/pawanbahuguna/action-logs)** – Action for downloading GitHub Action Logs using GitHub API.
 - 🔍 **[Telegram Orb](https://github.com/pawanbahuguna/telegramorb)** – Send build notifications & messages to a Telegram group.
 
